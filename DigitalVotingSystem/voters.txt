@@ -1,0 +1,4 @@
+shm:true
+saburi:false
+srushti:false
+sam:true
